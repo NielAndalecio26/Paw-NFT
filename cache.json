@@ -1,0 +1,49 @@
+{
+  "program": {
+    "candyMachine": "HJxRWpGJaEgiTrB3up1Csfd9Ai2zvAKBAG2WgsjcHh92",
+    "candyMachineCreator": "4TmKW15imQroBp8WVpryFkdj8NmRPYUD9oGvpLDNwz6K",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Paws NFT #1",
+      "image_hash": "763c2b07d2ef779dc682380a89ff84e733e5f23d354ebd0dd8db6843298dc96c",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiasanqaokstyeciyb3tjlqmp3cyoswvuoaqmxwsfvvq6x4rsw3i3u/0.png",
+      "metadata_hash": "b64f55be387309d7a2db56e9d1a1dd48791b33f1c78a869fb61c51d1204083d4",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeihhwugcm6cjzs6b6n4go27fhmmvjdnkixvuzajmazyiok3xcan56e/0.json",
+      "onChain": true
+    },
+    "1": {
+      "name": "Paws NFT #2",
+      "image_hash": "83bfa7333fadd919c710f9e5cf9db34942f837b2521e748d764cd1d035d25b87",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiasanqaokstyeciyb3tjlqmp3cyoswvuoaqmxwsfvvq6x4rsw3i3u/1.png",
+      "metadata_hash": "1537769d91379508236f14f165082444c1f013931d641fda53911014f3c0c3d7",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeihhwugcm6cjzs6b6n4go27fhmmvjdnkixvuzajmazyiok3xcan56e/1.json",
+      "onChain": true
+    },
+    "2": {
+      "name": "Paws NFT #3",
+      "image_hash": "b5c6c4c8ca6db3b113acc99a56fa1509c0215eff523483092c7dce399059a550",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiasanqaokstyeciyb3tjlqmp3cyoswvuoaqmxwsfvvq6x4rsw3i3u/2.png",
+      "metadata_hash": "9197ff2c4bbd965c9edf016925c9ed1b0a1e0ad778026086a23b4aa5d4b5dd59",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeihhwugcm6cjzs6b6n4go27fhmmvjdnkixvuzajmazyiok3xcan56e/2.json",
+      "onChain": true
+    },
+    "3": {
+      "name": "Paws NFT #4",
+      "image_hash": "4059f6fa9e2bcbb1c69bea6e1544a6b11f33fb4c88891b5de7ca184871b5711a",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiasanqaokstyeciyb3tjlqmp3cyoswvuoaqmxwsfvvq6x4rsw3i3u/3.png",
+      "metadata_hash": "4bc84fef1e00ffe2c6ffbefbc4b149209d330906644501caacca7bb0d120afa0",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeihhwugcm6cjzs6b6n4go27fhmmvjdnkixvuzajmazyiok3xcan56e/3.json",
+      "onChain": true
+    },
+    "4": {
+      "name": "Paws NFT #5",
+      "image_hash": "5f3878fe6e4d722a73401df32e1e0d27f0a8aace53f11f720ff9273ecb98f319",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiasanqaokstyeciyb3tjlqmp3cyoswvuoaqmxwsfvvq6x4rsw3i3u/4.png",
+      "metadata_hash": "8c2c7a87983032d24a02b167eb154595ad07b50ea8bf6dcde3123c2a8ad0ca04",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeihhwugcm6cjzs6b6n4go27fhmmvjdnkixvuzajmazyiok3xcan56e/4.json",
+      "onChain": true
+    }
+  }
+}

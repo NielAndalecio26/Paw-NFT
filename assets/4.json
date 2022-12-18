@@ -1,0 +1,15 @@
+{
+  "name": "Paws NFT #5",
+  "symbol": "PAW",
+  "description": "The best NFT just for you ;)",
+  "image": "4.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "4.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
